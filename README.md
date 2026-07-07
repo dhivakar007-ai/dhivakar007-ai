@@ -1,3 +1,13 @@
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Workspace
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:06b6d4&text=DHIVAKAR&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20Student&descAlignY=60"/>
+
+</div>
+
+---
+
 <p align="center">
   <img src="assets/banner.png" width="100%">
 </p>
@@ -614,10 +624,6 @@ It helped with:
 ## 💙 Thanks for Visiting
 
 *"I believe every project is an opportunity to learn something new, improve existing skills, and create solutions that make a difference."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:2563eb,100:38bdf8&section=footer"/>
 
 </div>
 
