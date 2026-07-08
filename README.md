@@ -22,7 +22,7 @@ Artificial Intelligence & Data Science Student
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Python+%7C+Flask+Developer;Learning+Machine+Learning;Turning+Ideas+into+Projects;Always+Learning+Something+New+🚀"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 </p>
 
@@ -219,40 +219,23 @@ Deployment   :: Render
 
 ```
         Think 💡
-
             │
-
             ▼
-
       Design 📐
-
             │
-
             ▼
-
       Develop 💻
-
             │
-
             ▼
-
        Debug 🐞
-
             │
-
             ▼
-
       Deploy 🚀
-
             │
-
             ▼
-
       Learn 📚
-
             │
-
-            └───────────────↺
+                  └───────────────↺
 ```
 
 </div>
@@ -281,7 +264,7 @@ Deployment   :: Render
 
 *A modern web application that simplifies hostel complaint reporting, tracking, and administration through a centralized digital platform.*
 
-<img src="docs/student-dashboard.png" width="92%">
+<img src="https://github.com/dhivakar007-ai/smart-hostel-complaint-management-system/blob/main/docs/student-dashboard.png" width="92%">
 
 <br><br>
 
@@ -339,25 +322,15 @@ Deployment   :: Render
 
 <div align="center">
 
-<img src="docs/login.png" width="31%">
+<img src="https://github.com/dhivakar007-ai/smart-hostel-complaint-management-system/blob/main/docs/login.png" width="31%">
 &nbsp;
-<img src="docs/student-dashboard.png" width="31%">
-&nbsp;
-<img src="docs/admin-dashboard.png" width="31%">
+<img src="https://github.com/dhivakar007-ai/smart-hostel-complaint-management-system/blob/main/docs/admin-dashboard.png" width="31%">
 
 </div>
 
 ---
 
 # 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhivakar007-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakar007-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
@@ -374,83 +347,7 @@ Deployment   :: Render
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar007-ai&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
-
-# 🤖 AI-Assisted Development
-
-Artificial Intelligence was used **responsibly as a development assistant** throughout this project.
-
-It helped with:
-
-- Debugging and troubleshooting
-- Understanding programming concepts
-- Improving code quality and maintainability
-- UI/UX refinement
-- Documentation preparation
-
-> **AI accelerated development and learning, while all implementation, integration, testing, and deployment decisions were reviewed and completed as part of the project development process.**
-
----
-
-# 🌱 Currently Exploring
-
-<div align="center">
-
-🧠 Artificial Intelligence & Machine Learning
-
-⚙ Flask Backend Development
-
-🌐 REST APIs
-
-📊 Data Structures & Algorithms
-
-☁ Cloud Deployment
-
-🤝 Open Source Contributions
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/dhivakar007-ai">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for Visiting
-
-*"I believe every project is an opportunity to learn something new, improve existing skills, and create solutions that make a difference."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:2563eb,100:38bdf8&section=footer"/>
-
-</div>
-
----
-
 <!-- ===================================================== -->
 <!--          MODULE 3 : PROJECTS • STATS • CONTACT        -->
 <!-- ===================================================== -->
@@ -459,28 +356,6 @@ It helped with:
 
 <div align="center">
 
-## 🏠 Smart Hostel Complaint Management System
-
-*A modern web application that simplifies hostel complaint reporting, tracking, and administration through a centralized digital platform.*
-
-<img src="docs/student-dashboard.png" width="92%">
-
-<br><br>
-
-<a href="https://smart-hostel-complaint-management-system-evzo.onrender.com/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-2563EB?style=for-the-badge"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/dhivakar007-ai/smart-hostel-complaint-management-system">
-<img src="https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
 ## ✨ Project Highlights
 
 <table>
@@ -514,48 +389,6 @@ It helped with:
 </tr>
 
 </table>
-
----
-
-# 📸 Project Gallery
-
-<div align="center">
-
-<img src="docs/login.png" width="31%">
-&nbsp;
-<img src="docs/student-dashboard.png" width="31%">
-&nbsp;
-<img src="docs/admin-dashboard.png" width="31%">
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhivakar007-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivakar007-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhivakar007-ai&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivakar007-ai&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
